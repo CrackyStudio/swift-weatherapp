@@ -1,6 +1,5 @@
-# weatherapp
-final swift school project
+# WeatherApp
+WeatherApp is a school project realized at EFREI PARIS.
 
-# Dark Sky API
-
+# Used API
 https://darksky.net/dev/docs
